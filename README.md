@@ -48,13 +48,8 @@ y tiempo activo) usando el módulo `os` y coloreando la salida con `picocolors`.
 
 ## Ejercicio 2 · Explorador de carpetas
 
-_(pendiente)_
+
 
 ## Ejercicio 3 · Informe de archivo
 
-_(pendiente)_
 
-## Integrantes
-
-- Nombre 1
-- Nombre 2
