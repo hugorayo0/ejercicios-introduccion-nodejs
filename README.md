@@ -57,7 +57,7 @@ muestra un error con fondo rojo y termina con código de salida 1.
 
 ```bash
 node listar.js ./mi-carpeta
-node listar.js          # sin argumento: usa la carpeta actual
+node listar.js
 ```
 
 ## Ejercicio 3 · Informe de archivo
