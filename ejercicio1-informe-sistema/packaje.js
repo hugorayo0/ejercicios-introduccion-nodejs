@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio1-informe-sistema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sistema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
+}
